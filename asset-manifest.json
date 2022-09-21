@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/intellimoney-gh-pages/static/css/main.b82e3026.css",
+    "main.js": "/intellimoney-gh-pages/static/js/main.701716a7.js",
+    "static/js/787.b224a437.chunk.js": "/intellimoney-gh-pages/static/js/787.b224a437.chunk.js",
+    "static/media/simulation.svg": "/intellimoney-gh-pages/static/media/simulation.14bd7babe8491c68237a75c65868e54c.svg",
+    "static/media/conversion.svg": "/intellimoney-gh-pages/static/media/conversion.e87fc9d817315741a16b23aece2f3e53.svg",
+    "static/media/profile1.svg": "/intellimoney-gh-pages/static/media/profile1.dc9973387a28817d9e2b195c96c8b4a9.svg",
+    "static/media/everywhere.svg": "/intellimoney-gh-pages/static/media/everywhere.4b21859d2c6ef592cbe1373dbde3ade6.svg",
+    "static/media/logomarca.svg": "/intellimoney-gh-pages/static/media/logomarca.fa508e89ffa065e26c023fccee8f24ed.svg",
+    "static/media/retirement.svg": "/intellimoney-gh-pages/static/media/retirement.03e050ad6c0bdd23e76a3c3225a0be12.svg",
+    "static/media/search.svg": "/intellimoney-gh-pages/static/media/search.9195c8c47cd3c412da13.svg",
+    "static/media/invests.svg": "/intellimoney-gh-pages/static/media/invests.811a99116cfd241e7339a1b40ca7552e.svg",
+    "static/media/left_arrow.svg": "/intellimoney-gh-pages/static/media/left_arrow.7b5334974bf67946c77696430a246653.svg",
+    "static/media/right_arrow.svg": "/intellimoney-gh-pages/static/media/right_arrow.72fa8fa7362651a262cae5417032b4d1.svg",
+    "static/media/background-img.svg": "/intellimoney-gh-pages/static/media/background-img.083018dd83aea07bf65f.svg",
+    "index.html": "/intellimoney-gh-pages/index.html",
+    "main.b82e3026.css.map": "/intellimoney-gh-pages/static/css/main.b82e3026.css.map",
+    "main.701716a7.js.map": "/intellimoney-gh-pages/static/js/main.701716a7.js.map",
+    "787.b224a437.chunk.js.map": "/intellimoney-gh-pages/static/js/787.b224a437.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b82e3026.css",
+    "static/js/main.701716a7.js"
+  ]
+}
